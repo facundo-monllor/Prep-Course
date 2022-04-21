@@ -1,0 +1,6 @@
+    h1 {color: orange;}
+	img {width: 400px;}
+	div {justify-content: center; align-items: center;}
+	.fondo {background-image: url(https://static.vecteezy.com/system/resources/previews/002/024/245/large_2x/fast-food-pattern-background-vector.jpg);}
+	#thirdDiv {height: 600px; width: 500px; background: lightblue; padding: 50px; border: 8px violet solid;}
+	#spanId {font-size: 18px; margin: 50px;}
